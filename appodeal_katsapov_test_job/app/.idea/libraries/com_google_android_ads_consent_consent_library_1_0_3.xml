@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.android.ads.consent:consent-library-1.0.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/consent-library-1.0.3.aar/829cd46c5ef99c4126e274ee0d49ab53/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/consent-library-1.0.3.aar/829cd46c5ef99c4126e274ee0d49ab53/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appodeal Demo</string>
+
+    <string name="sdkTextView">SDK v%s</string>
+    <string name="disableNetworksButton">Disable</string>
+    <string name="testModeSwitch">Test Mode</string>
+    <string name="loggingSwitch">Logging</string>
+    <string name="toastSwitch">Show toasts</string>
+    <string name="initSdkButton">Init SDK</string>
+    <string name="chooseNetworks">Choose networks</string>
+    <string name="logLevelTextView">Log level</string>
+
+    <string name="set_child_directed_treatment">Set Child Directed Treatment</string>
+
+    <string name="autoCacheRewardedVideoSwitch">Auto Cache</string>
+    <string name="initRewardedVideoSdkButton">Init Rewarded Video</string>
+    <string name="isRewardedVideoLoadedButton">Loaded?</string>
+    <string name="rewardedVideoCacheButton">Cache</string>
+    <string name="rewardedVideoShowButton">Show</string>
+
+    <string name="autoCacheBannerSwitch">Auto Cache</string>
+    <string name="smartBannersSwitch">Smart</string>
+    <string name="bigBannersSwitch">728*90</string>
+    <string name="bannersAnimateBannersSwitch">Animate</string>
+    <string name="initBannerSdkButton">Init Banners</string>
+    <string name="isBannerLoadedButton">Loaded?</string>
+    <string name="bannerCacheButton">Cache</string>
+    <string name="bannerShowButton">Show</string>
+    <string name="bannerHideButton">Hide</string>
+    <string name="bannerDestroyButton">Destroy</string>
+
+    <string name="autoCacheNativeSwitch">Auto Cache</string>
+    <string name="initNativeSdkButton">Init Native</string>
+    <string name="isNativeLoadedButton">Loaded?</string>
+    <string name="nativeCacheButton">Cache</string>
+    <string name="nativeHideButton">Hide</string>
+    <string name="debugNativeTextView">Debug</string>
+    <string name="templateNativeTextView">Template</string>
+    <string name="typeNativeTextView">Type</string>
+    <string name="nativeCacheDebugButton">Cache</string>
+    <string name="nativeCacheMultipleButton">Cache multiple ads</string>
+    <string name="nativeAdMessage">Ad</string>
+    <string name="nativeShowButton">Show</string>
+
+    <string name="selectNetworks">Select networks</string>
+
+    <string-array name="banner_networks">
+        <item>admob</item>
+        <item>amazon_ads</item>
+        <item>applovin</item>
+        <item>appnexus</item>
+        <item>facebook</item>
+        <item>flurry</item>
+        <item>inmobi</item>
+        <item>inner-active</item>
+        <item>mailru</item>
+        <item>mmedia</item>
+        <item>mopub</item>
+        <item>mraid</item>
+        <item>openx</item>
+        <item>smaato</item>
+        <item>startapp</item>
+        <item>yandex</item>
+        <item>zplay</item>
+    </string-array>
+
+    <string-array name="rewarded_video_networks">
+        <item>adcolony</item>
+        <item>admob</item>
+        <item>applovin</item>
+        <item>chartboost</item>
+        <item>facebook</item>
+        <item>flurry</item>
+        <item>inmobi</item>
+        <item>ironsource</item>
+        <item>mailru</item>
+        <item>mopub</item>
+        <item>mraid</item>
+        <item>mraid_va</item>
+        <item>startapp</item>
+        <item>tapjoy</item>
+        <item>unity_ads</item>
+        <item>vast</item>
+        <item>vungle</item>
+    </string-array>
+
+    <string-array name="native_networks">
+        <item>adcolony</item>
+        <item>applovin</item>
+        <item>appnext</item>
+        <item>appodeal</item>
+        <item>avocarrot</item>
+        <item>facebook</item>
+        <item>flurry</item>
+        <item>inmobi</item>
+        <item>inner-active</item>
+        <item>mailru</item>
+        <item>mmedia</item>
+        <item>mopub</item>
+        <item>nast</item>
+        <item>pubnative</item>
+        <item>smaato</item>
+        <item>startapp</item>
+        <item>zplay</item>
+    </string-array>
+
+    <string-array name="nativeTemplates">
+        <item>Custom</item>
+        <item>NewsFeed</item>
+        <item>AppWall</item>
+        <item>ContentStream</item>
+    </string-array>
+
+    <string-array name="nativeTypes">
+        <item>Auto</item>
+        <item>NoVideo</item>
+        <item>Video</item>
+    </string-array>
+
+</resources>

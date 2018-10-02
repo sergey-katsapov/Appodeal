@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mmedia-6.4.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mmedia-6.4.0.aar/b6b3c1f9d7e25621a689eae56c190dd5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mmedia-6.4.0.aar/b6b3c1f9d7e25621a689eae56c190dd5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
